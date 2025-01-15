@@ -1,0 +1,26 @@
+{
+  "name": "gat_telemetry",
+  "version": "0.1.0",
+  "description": "Telemetry library for the gateway project, defining communication and data standards",
+  "keywords": "telemetry, communication",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jm-space/gat_telemetry"
+  },
+  "authors":
+  [
+    {
+      "name": "Samuel Nösslböck",
+      "email": "samuel.noesslboeck@gmail.com",
+      "url": "https://www.john-smith/contact",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
