@@ -27,7 +27,7 @@ namespace gat_telemetry {
         State state;
 
         StateMachine();
-
-        
     };
+
+    typedef void (*StateMachineHandler)(StateMachine*);
 }

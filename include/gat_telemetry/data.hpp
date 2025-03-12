@@ -43,6 +43,7 @@ namespace gat_telemetry {
 
     /// Uniform structure for command responses
     struct RemoteResponse {
+        /// 
         ResponseCode code;
 
         uint8_t* data;
